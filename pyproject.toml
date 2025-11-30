@@ -11,7 +11,6 @@ dependencies = [
     "onnxruntime",
     "torch",
     "transformers",
-    "triton>=3.1.0",
 ]
 
 [tool.uv.sources]
